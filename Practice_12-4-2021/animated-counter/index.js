@@ -1,5 +1,5 @@
 const counters = document.querySelectorAll(".counter");
-const speed = 200; // The lower the slower
+const speed = 200;
 
 counters.forEach((counter) => {
   const updateCount = () => {
